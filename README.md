@@ -33,7 +33,4 @@ Bez dodatkowych instrukcji. Wystarczy wrzucić plik.
 Skill oparty na metodzie Structure of Thought z pracy:  
 *T2S-Bench & Structure-of-Thought* (Wang et al., 2026, arXiv:2603.03790)
 
-## Kontakt:
-[heuristica.pl](https://heuristica.pl) · [LinkedIn](https://www.linkedin.com/in/staniszewskimarek/)
-
 - License MIT — feel free to use, modify, and share.
