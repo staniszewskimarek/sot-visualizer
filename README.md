@@ -25,5 +25,10 @@ w Claude Code lub przeciągnij do folderu `.claude/`.
 
 ## Inspiracja
 
-Oparty na metodzie Structure of Thought z pracy:  
+Skill oparty na metodzie Structure of Thought z pracy:  
 *T2S-Bench & Structure-of-Thought* (Wang et al., 2026, arXiv:2603.03790)
+
+## Kontakt:
+Marek — [heuristica.pl](https://heuristica.pl) · [LinkedIn](https://linkedin.com/in/...)
+
+- License MIT — feel free to use, modify, and share.
