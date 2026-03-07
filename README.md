@@ -22,10 +22,10 @@ Bez dodatkowych instrukcji. Wystarczy wrzucić plik.
 
 1. Sklonuj lub pobierz to repozytorium
 2. Umieść folder `sot-visualizer/` w katalogu skills swojego środowiska Claude:
-
+```
    skills/user/sot-visualizer/SKILL.md
    skills/user/sot-visualizer/references/component-template.md
-
+```
 3. Gotowe — skill uruchamia się automatycznie gdy wrzucisz dokument do claude.ai
 
 ## Inspiracja
