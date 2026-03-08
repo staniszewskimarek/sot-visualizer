@@ -11,7 +11,7 @@ Wrzucasz dokument (raport, brief, artykuł, transkrypt) → Claude:
 
 Bez dodatkowych instrukcji. Wystarczy wrzucić plik.
 
-## Demo
+## Demo (kliknij i zobacz video)
 
 [![SoT Visualizer demo](https://img.youtube.com/vi/rjpoVv8zC2g/maxresdefault.jpg)](https://www.youtube.com/watch?v=rjpoVv8zC2g)
 
